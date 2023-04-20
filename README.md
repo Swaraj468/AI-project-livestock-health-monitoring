@@ -1,1 +1,1 @@
-# AI-project
+# AI-project livestock health monitoring
